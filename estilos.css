@@ -1,0 +1,21 @@
+.head_box{
+    display: flex;
+    background-color: #20b2aa;
+    width: 50vw;
+    border-radius: 1rem;
+    *-justify-content: space-between;
+    
+    
+}
+
+.head_box_button{
+    
+    text-align: center;
+    background-color: #778899;
+    width: 10%;
+    border-color: #000;
+    border-radius: .5rem;
+    border-style: solid;
+    font-size: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
